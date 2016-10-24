@@ -4,25 +4,12 @@ tmp/*
 
 bin/*.ilk
 bin/*.pdb
-bin/jyxb-d.*
-bin/jyxb.*
-bin/jyxb-stu-d.*
 
 */ipch/*
 *.sdf
-jyxb-framework/*.sdf
-jyxb-framework/*.opensdf
+gigi/*.sdf
+gigi/*.opensdf
 
-release/*
-jyxb*.exe
-*Peg*.dll
-libs/nim*.lib
-libs/shared*.lib
-libs/base*.lib
-libs/db*.lib
-libs/live-core.lib
-libs/live-core_d.lib
-libs/jyxb_tools*.lib
 
 *.suo
 
